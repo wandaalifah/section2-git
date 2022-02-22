@@ -10,7 +10,8 @@
     <title>Index | Website</title>
 </head>
 <body>
-    <p>Selamat datang di halaman web.</p>
+    <h1>Selamat datang di halaman web.</h1>
+    <p>Ini adalah halaman depan web</p>
     <?php 
         define("GELANG",true);
 
